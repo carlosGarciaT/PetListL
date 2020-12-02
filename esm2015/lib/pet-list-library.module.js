@@ -1,0 +1,15 @@
+import { __decorate } from "tslib";
+import { NgModule } from '@angular/core';
+import { PetListLibraryComponent } from './pet-list-library.component';
+import { CommonModule } from '@angular/common';
+let PetListLibraryModule = class PetListLibraryModule {
+};
+PetListLibraryModule = __decorate([
+    NgModule({
+        declarations: [PetListLibraryComponent],
+        imports: [CommonModule],
+        exports: [PetListLibraryComponent, CommonModule],
+    })
+], PetListLibraryModule);
+export { PetListLibraryModule };
+//# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJmaWxlIjoicGV0LWxpc3QtbGlicmFyeS5tb2R1bGUuanMiLCJzb3VyY2VSb290Ijoibmc6Ly9wZXQtbGlzdC1saWJyYXJ5LyIsInNvdXJjZXMiOlsibGliL3BldC1saXN0LWxpYnJhcnkubW9kdWxlLnRzIl0sIm5hbWVzIjpbXSwibWFwcGluZ3MiOiI7QUFBQSxPQUFPLEVBQUUsUUFBUSxFQUFFLE1BQU0sZUFBZSxDQUFDO0FBQ3pDLE9BQU8sRUFBRSx1QkFBdUIsRUFBRSxNQUFNLDhCQUE4QixDQUFDO0FBQ3ZFLE9BQU8sRUFBRSxZQUFZLEVBQUUsTUFBTSxpQkFBaUIsQ0FBQztBQU8vQyxJQUFhLG9CQUFvQixHQUFqQyxNQUFhLG9CQUFvQjtDQUFHLENBQUE7QUFBdkIsb0JBQW9CO0lBTGhDLFFBQVEsQ0FBQztRQUNSLFlBQVksRUFBRSxDQUFDLHVCQUF1QixDQUFDO1FBQ3ZDLE9BQU8sRUFBRSxDQUFDLFlBQVksQ0FBQztRQUN2QixPQUFPLEVBQUUsQ0FBQyx1QkFBdUIsRUFBRSxZQUFZLENBQUM7S0FDakQsQ0FBQztHQUNXLG9CQUFvQixDQUFHO1NBQXZCLG9CQUFvQiIsInNvdXJjZXNDb250ZW50IjpbImltcG9ydCB7IE5nTW9kdWxlIH0gZnJvbSAnQGFuZ3VsYXIvY29yZSc7XG5pbXBvcnQgeyBQZXRMaXN0TGlicmFyeUNvbXBvbmVudCB9IGZyb20gJy4vcGV0LWxpc3QtbGlicmFyeS5jb21wb25lbnQnO1xuaW1wb3J0IHsgQ29tbW9uTW9kdWxlIH0gZnJvbSAnQGFuZ3VsYXIvY29tbW9uJztcblxuQE5nTW9kdWxlKHtcbiAgZGVjbGFyYXRpb25zOiBbUGV0TGlzdExpYnJhcnlDb21wb25lbnRdLFxuICBpbXBvcnRzOiBbQ29tbW9uTW9kdWxlXSxcbiAgZXhwb3J0czogW1BldExpc3RMaWJyYXJ5Q29tcG9uZW50LCBDb21tb25Nb2R1bGVdLFxufSlcbmV4cG9ydCBjbGFzcyBQZXRMaXN0TGlicmFyeU1vZHVsZSB7fVxuIl19

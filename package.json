@@ -1,0 +1,21 @@
+{
+  "name": "pet-list-library",
+  "version": "2.0.2",
+  "peerDependencies": {
+    "@angular/common": "^9.1.12",
+    "@angular/core": "^9.1.12"
+  },
+  "dependencies": {
+    "tslib": "^1.10.0"
+  },
+  "main": "bundles/pet-list-library.umd.js",
+  "module": "fesm5/pet-list-library.js",
+  "es2015": "fesm2015/pet-list-library.js",
+  "esm5": "esm5/pet-list-library.js",
+  "esm2015": "esm2015/pet-list-library.js",
+  "fesm5": "fesm5/pet-list-library.js",
+  "fesm2015": "fesm2015/pet-list-library.js",
+  "typings": "pet-list-library.d.ts",
+  "metadata": "pet-list-library.metadata.json",
+  "sideEffects": false
+}

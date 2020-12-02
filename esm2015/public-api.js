@@ -1,0 +1,7 @@
+/*
+ * Public API Surface of pet-list-library
+ */
+// export * from './lib/pet-list-library.service';
+export * from './lib/pet-list-library.component';
+export * from './lib/pet-list-library.module';
+//# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJmaWxlIjoicHVibGljLWFwaS5qcyIsInNvdXJjZVJvb3QiOiJuZzovL3BldC1saXN0LWxpYnJhcnkvIiwic291cmNlcyI6WyJwdWJsaWMtYXBpLnRzIl0sIm5hbWVzIjpbXSwibWFwcGluZ3MiOiJBQUFBOztHQUVHO0FBRUgsa0RBQWtEO0FBQ2xELGNBQWMsa0NBQWtDLENBQUM7QUFDakQsY0FBYywrQkFBK0IsQ0FBQyIsInNvdXJjZXNDb250ZW50IjpbIi8qXG4gKiBQdWJsaWMgQVBJIFN1cmZhY2Ugb2YgcGV0LWxpc3QtbGlicmFyeVxuICovXG5cbi8vIGV4cG9ydCAqIGZyb20gJy4vbGliL3BldC1saXN0LWxpYnJhcnkuc2VydmljZSc7XG5leHBvcnQgKiBmcm9tICcuL2xpYi9wZXQtbGlzdC1saWJyYXJ5LmNvbXBvbmVudCc7XG5leHBvcnQgKiBmcm9tICcuL2xpYi9wZXQtbGlzdC1saWJyYXJ5Lm1vZHVsZSc7XG4iXX0=
